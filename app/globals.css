@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-red-700 text-white; /* Example: Change background color to gray-900 and text color to white */
+  }
+  h1 {
+    @apply font-bold text-3xl;
+  }
+  a {
+    @apply underline font-bold;
+  }
+}
+
