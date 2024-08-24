@@ -112,7 +112,7 @@ export default function SignInPage() {
               Sign In
             </button>
             <div className="text-center mt-4">
-              Don't have an account?{" "}
+              Don&apos;t have an account?{" "}
               <span className="text-blue-400 cursor-pointer hover:underline">
                 Register here
               </span>
